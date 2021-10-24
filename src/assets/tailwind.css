@@ -1,0 +1,22 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+.btn-blue {
+  background-color: aquamarine;
+  color: #fff;
+  font-size: bold;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.btn-blue:hover {
+  background-color: aqua
+
+}
+
+.btn-blue:focus {
+ outline: none;
+ }
